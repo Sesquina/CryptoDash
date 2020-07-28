@@ -28,7 +28,7 @@
 - May run out of coffee :coffee:
 - Needs to style this to look :fire:
 
-# Timeframe: This is a 1 woman operation :information_desk_person:
+# Timeframe: This is a 1 :information_desk_person: operation 
 + Need to build the interface 
 + ![](https://media.giphy.com/media/gZuxOq7zSL5DO/giphy.gif)
 + Pull API data from Gemini/ Crypto Control
