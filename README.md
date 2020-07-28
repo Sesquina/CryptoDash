@@ -7,7 +7,9 @@
 
 ## Your Wait Is Over! :alarm_clock:
 
-# CryptoDash is a cryptocurrency dashboard that pulls data & news in realtime. It allows you tof filter by coin and see market trends
+# CryptoDash 
+- Is a cryptocurrency dashboard that pulls data & news in realtime. 
+- It allows you to filter by coin and see market trends
 ![](https://media.giphy.com/media/xUA7bdUwVKAxUwP2SY/giphy.gif)
 
 
