@@ -21,7 +21,7 @@
 - Ranking :chart_with_upwards_trend:
 - Ticker :bar_chart:
 - Time/Value data 	:chart:
-
+![SUPERMVP](src/Web 1280 – 1.jpg )
 
 # Tech Stack
 - React
