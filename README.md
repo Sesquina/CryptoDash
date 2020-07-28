@@ -24,6 +24,5 @@
 - Needs to style this to look :fire:
 
 # Timeframe: This is a 1 woman operation
-- Build the Frame that will hold everything
 ![Build the frame that will hold the data](https://media.giphy.com/media/gZuxOq7zSL5DO/giphy.gif)
 
