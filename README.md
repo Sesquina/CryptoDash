@@ -11,7 +11,7 @@
 # CryptoDash 
 - Is a cryptocurrency dashboard that pulls data & news in realtime. 
 - It allows you to filter by coin and see market trends
-![](https://media.giphy.com/media/xUA7bdUwVKAxUwP2SY/giphy.gif)
+- ![](https://media.giphy.com/media/xUA7bdUwVKAxUwP2SY/giphy.gif)
 
 
 ## What it Does :high_brightness:
