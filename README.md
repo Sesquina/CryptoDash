@@ -30,3 +30,6 @@
 ![](https://media.giphy.com/media/gZuxOq7zSL5DO/giphy.gif)
 + Pull API data from Gemini/ Crypto Control
 + Style all the components 
+
+# When all the above is executed...
+![](https://media.giphy.com/media/UTjccaRoigEJx2DKnk/giphy.gif)
