@@ -16,7 +16,7 @@
 # MVP
 - Shows Price :dollar:
 - News about Crypto :newspaper: 
-
+![MVP](src/MVP.jpg )
 ## SUPER MVP
 - Ranking :chart_with_upwards_trend:
 - Ticker :bar_chart:
