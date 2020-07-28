@@ -6,7 +6,7 @@
 - Would you like to see all your coins being traded in realtime?
 - Want to stay informed with the latest crypto currency news?
 
-## Your Wait Is Over! :alarm_clock:
+## :alarm_clock: Your Wait Is Over! :alarm_clock:
 
 # CryptoDash 
 - Is a cryptocurrency dashboard that pulls data & news in realtime. 
