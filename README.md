@@ -21,6 +21,15 @@
 - Time/Value data 	:chart:
 - News about Crypto :newspaper: :filterable by coin 
 
+# Tech Stack
+- React
+- Redux 
+- Firebase
+- APIs
+- Material UI
+- JS
+- HTML 
+- CSS
 
 # Currently in Beta: Expected roadblocks :construction:
 - Integrating everything smoothly :surfer:
