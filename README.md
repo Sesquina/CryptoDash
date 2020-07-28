@@ -1,7 +1,8 @@
 # Crypto Currency Dashboard
-- Are you sick and tired of having multiple tabs open that slow your computer down while you buy & sell your crypto currency?
+- Are you sick and tired of having multiple tabs open?
+- Is your computer slow while you buy & sell your crypto currency?
 ![](https://media.giphy.com/media/XIS4ARkxVah4A/giphy.gif)
-- Do you need the tabs to see realtime news & data to make an informed purchase?
+- Do you need to see realtime news & data to make an informed purchase?
 - Would you like to see all your coins being traded in realtime?
 - Want to stay informed with the latest crypto currency news?
 
