@@ -18,21 +18,22 @@
 - Shows price :dollar:
 - Ranking :chart_with_upwards_trend:
 - Ticker :bar_chart:
-- Time/Value data
-- News about Crypto :filterable by coin :newspaper:
+- Time/Value data 	:chart:
+- News about Crypto :newspaper: :filterable by coin 
 
 
 # Currently in Beta: Expected roadblocks :construction:
 - Integrating everything smoothly :surfer:
-- Redux :japanese_ogre:
+- Redux :zombie:
 - May run out of coffee :coffee:
 - Needs to style this to look :fire:
+- Manage my time effectively :mage_woman:
 
-# Timeframe: This is a 1 :information_desk_person: operation 
+# Timeframe: This is a 1 :woman_technologist: operation 
 + Need to build the interface 
 + ![](https://media.giphy.com/media/gZuxOq7zSL5DO/giphy.gif)
 + Pull API data from Gemini/ Crypto Control
-+ Style all the components 
++ Style all the components :haircut_woman:
 
 # When all the above is executed...
 ![](https://media.giphy.com/media/UTjccaRoigEJx2DKnk/giphy.gif)
