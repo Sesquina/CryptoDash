@@ -13,13 +13,15 @@
 - It allows you to filter by coin and see market trends
 - ![](https://media.giphy.com/media/xUA7bdUwVKAxUwP2SY/giphy.gif)
 
+# MVP
+- Shows Price :dollar:
+- News about Crypto :newspaper: 
 
-## What it Does :high_brightness:
-- Shows price :dollar:
+## SUPER MVP
 - Ranking :chart_with_upwards_trend:
 - Ticker :bar_chart:
 - Time/Value data 	:chart:
-- News about Crypto :newspaper: :filterable by coin 
+
 
 # Tech Stack
 - React
