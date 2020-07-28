@@ -10,19 +10,21 @@
 # CryptoDash is a cryptocurrency dashboard that pulls data & news in realtime. It alows you tof ilter by coin and see market trends
 
 ## What it Does
-- Shows price
-- Ranking
-- Ticker
+- Shows price :dollar:
+- Ranking :chart_with_upwards_trend:
+- Ticker :bar_chart:
 - Time/Value data
-- News about Crypto :filterable by coin
+- News about Crypto :filterable by coin :newspaper:
 
 
 # Currently in Beta: expected roadblocks
-- Integrating everything smoothly
-- Redux is not a nice lady
-- May run out of coffee
+- Integrating everything smoothly :surfer:
+- Redux :japanese_ogre:
+- May run out of coffee :coffee:
 - Needs to style this to look :fire:
 
 # Timeframe: This is a 1 woman operation
-!(https://media.giphy.com/media/gZuxOq7zSL5DO/giphy.gif)
-
++ Need to build the interface 
+![](https://media.giphy.com/media/gZuxOq7zSL5DO/giphy.gif)
++ Pull API data from Gemini/ Crypto Control
++ 
