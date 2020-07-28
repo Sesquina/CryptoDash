@@ -22,7 +22,7 @@
 - News about Crypto :filterable by coin :newspaper:
 
 
-# Currently in Beta: expected roadblocks :construction:
+# Currently in Beta: Expected roadblocks :construction:
 - Integrating everything smoothly :surfer:
 - Redux :japanese_ogre:
 - May run out of coffee :coffee:
