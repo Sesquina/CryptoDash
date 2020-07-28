@@ -32,7 +32,7 @@
 # Timeframe: This is a 1 :woman_technologist: operation 
 + Need to build the interface 
 + ![](https://media.giphy.com/media/gZuxOq7zSL5DO/giphy.gif)
-+ Pull API data from Gemini/ Crypto Control
++ Pull API data from Gemini/ Crypto Control :inbox_tray:
 + Style all the components :haircut_woman:
 
 # When all the above is executed...
