@@ -30,7 +30,7 @@
 
 # Timeframe: This is a 1 woman operation :information_desk_person:
 + Need to build the interface 
-![](https://media.giphy.com/media/gZuxOq7zSL5DO/giphy.gif)
++ ![](https://media.giphy.com/media/gZuxOq7zSL5DO/giphy.gif)
 + Pull API data from Gemini/ Crypto Control
 + Style all the components 
 
