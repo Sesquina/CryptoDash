@@ -13,12 +13,6 @@ class CoinList extends Component {
       <div className="">
           <div className="topheader">
               <header className="container">
-                  <nav className="navbar">
-                      <div className="navbar-brand">
-                          <span className="navbar-item">Coin List</span>
-                      </div>
-                    
-                  </nav>
               </header>
           </div>
           <section className="results--section">
