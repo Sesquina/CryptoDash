@@ -27,4 +27,4 @@ export const fontSize1 = 'font-size: 1.5em;';
 export const fontSize2 = 'font-size: 1.0em';
 export const fontSize3 = 'font-size: .75em';
 
-export const textAlignCenter = 'text-align: center;';
+// export const textAlignCenter = 'text-align: center;';
