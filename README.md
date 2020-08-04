@@ -17,11 +17,7 @@
 - Shows Price :dollar:
 - News about Crypto :newspaper: 
 ![MVP](src/MVP.jpg )
-## SUPER MVP
-- Ranking :chart_with_upwards_trend:
-- Ticker :bar_chart:
-- Time/Value data 	:chart:
-![SUPERMVP](src/SUPERMVP.jpg)
+
 
 # Tech Stack
 - React
@@ -43,7 +39,6 @@
 # Timeframe: This is a 1 :woman_technologist: operation 
 + Need to build the interface 
 + ![](https://media.giphy.com/media/gZuxOq7zSL5DO/giphy.gif)
-+ Pull API data from Gemini/ Crypto Control :inbox_tray:
 + Style all the components :haircut_woman:
 
 # When all the above is executed...
